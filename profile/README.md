@@ -11,6 +11,19 @@ Our mission is to:
 - 🤝 Promote open-source contributions and best practices.
 - 📚 Support learning and professional growth in web development.
 
+## Our Services
+
+At WebAppVentures, we offer a comprehensive range of web development services designed to help businesses and individuals thrive in the digital landscape:
+
+- **Custom Web Application Development:** We design and build tailor-made web applications that fit your unique business requirements, using modern frameworks and best practices.
+- **UI/UX Design & Prototyping:** Our team crafts intuitive, visually compelling interfaces that deliver seamless user experiences across all devices.
+- **API Development & Integration:** We develop robust RESTful and GraphQL APIs and integrate third-party services to extend the functionality of your applications.
+- **Performance Optimization:** We audit and optimize existing applications for speed, scalability, and reliability, ensuring they perform under real-world demands.
+- **Open Source Consulting:** Leverage our expertise to evaluate, adopt, and contribute to open-source technologies that accelerate your development workflow.
+- **Code Reviews & Technical Mentorship:** We provide in-depth code reviews and one-on-one mentorship sessions to help developers level up their skills and produce production-ready code.
+
+Whether you're a startup launching your first product or an established team looking to modernize your stack, WebAppVentures has the expertise to bring your vision to life.
+
 ## What We Do
 
 - **Open Source Projects:** We create and maintain a variety of web applications, tools, and libraries.
